@@ -1,0 +1,29 @@
+{
+  "prefix": "/",
+  "logChannels": {
+    "modLog": "mod-log",
+    "jailLog": "jail-log",
+    "mesajLog": "mesaj-log",
+    "guardLog": "guard-log",
+    "davetLog": "davet-log",
+    "toLog": "to-log",
+    "sesLog": "ses-log",
+    "girisCikisLog": "giriş-çıkış-log",
+    "banLog": "ban-log",
+    "unbanLog": "unban-log",
+    "rolLog": "rol-log",
+    "kanalLog": "kanal-log"
+  },
+  "dangerousPermissions": [
+    "Administrator",
+    "ManageGuild",
+    "ManageRoles",
+    "ManageChannels",
+    "ManageMessages",
+    "KickMembers",
+    "BanMembers",
+    "MuteMembers",
+    "DeafenMembers"
+  ],
+  "warningLimit": 3
+}
